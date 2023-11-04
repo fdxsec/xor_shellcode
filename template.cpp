@@ -20,7 +20,7 @@ int main()
     void* exec_mem;
     unsigned char xpp[] = { };
     unsigned int payload_len = sizeof(xpp);
-    unsigned char key[] = "mysecretkeee";
+    unsigned char key[] = "";
     unsigned int key_len = sizeof(key);
 
 
