@@ -8,7 +8,7 @@
 用法
 
 ```shell
-python xorencrypt.py shellcode.bin
+python main.py shellcode.bin
 ```
 
 其中shellcode.bin是自己的shellcode二进制文件,项目中的是一个弹出错误框的shellcode，有如下效果：
