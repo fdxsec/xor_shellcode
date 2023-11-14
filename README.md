@@ -24,3 +24,4 @@ python main.py shellcode.bin
 经过测试，是可以过掉火绒的
 ![image](https://github.com/fdxsec/xor_shellcode/assets/117912115/96666b17-5ed5-4704-af28-4657ec3df9ce)
 
+博客地址：https://www.cnblogs.com/fdxsec/p/17809606.html
