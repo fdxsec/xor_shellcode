@@ -22,6 +22,5 @@ python main.py shellcode.bin
 学习免杀时写的一个脚本，没有什么技术难度，大佬勿喷。还有许多可以改进的地方，比如隐藏掉黑窗口，大家可以在模板文件里面修改或者加入更多个性化的东西。
 项目地址：https://github.com/fdxsec/xor_shellcode
 经过测试，是可以过掉火绒的
-
 ![image](https://github.com/fdxsec/xor_shellcode/assets/117912115/96666b17-5ed5-4704-af28-4657ec3df9ce)
 
